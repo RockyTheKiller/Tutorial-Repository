@@ -17,7 +17,12 @@ public class First {
 		System.out.println(m);
 		System.out.println(devi);
 		
+<<<<<<< HEAD
 		System.out.println("In dev Branch");
+=======
+		// System.out.println("In dev Branch");
+		System.out.println("Hello World");
+>>>>>>> dev
 	}
 
 }
